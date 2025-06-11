@@ -1,0 +1,17 @@
+0000000000000000000000000000000000000000 4413532336b57d60c5adaa33ecb0c91d5a5e5075 3y3l3ss0ur0b0r0s <danielle.bertulfo.coding@gmail.com> 1736380152 -0500	branch: Created from origin/working_branch
+4413532336b57d60c5adaa33ecb0c91d5a5e5075 354d70cde0a2df9a33c28f5e30fa43f36eb611bf 3y3l3ss0ur0b0r0s <danielle.bertulfo.coding@gmail.com> 1736380172 -0500	commit: 1.A. Update README with student ID and Angular version
+354d70cde0a2df9a33c28f5e30fa43f36eb611bf c2b2f8d4e83fe87da7516803b6283647b8ddb686 3y3l3ss0ur0b0r0s <danielle.bertulfo.coding@gmail.com> 1736380290 -0500	commit: 1.B. Add required project files
+c2b2f8d4e83fe87da7516803b6283647b8ddb686 367528043c94c9fd5c1999ab283c7042da688a37 3y3l3ss0ur0b0r0s <danielle.bertulfo.coding@gmail.com> 1736380536 -0500	commit: Move map-image.svg into world-map directory
+367528043c94c9fd5c1999ab283c7042da688a37 0ca932508603d4273518b5a8d24b82bedbe38a60 3y3l3ss0ur0b0r0s <danielle.bertulfo.coding@gmail.com> 1736380746 -0500	commit: D. Use Angular routing to configure root component to redirect automatically to '/map'
+0ca932508603d4273518b5a8d24b82bedbe38a60 3d9d6a23c75150e737a82da841d0cdf9fa4e6fe4 3y3l3ss0ur0b0r0s <danielle.bertulfo.coding@gmail.com> 1736380874 -0500	commit: D. Re-add <router-outlet> element
+3d9d6a23c75150e737a82da841d0cdf9fa4e6fe4 c60635859dcd63458e5c36c81214aa0229877f07 3y3l3ss0ur0b0r0s <danielle.bertulfo.coding@gmail.com> 1736380902 -0500	commit: Update index.html <title>
+c60635859dcd63458e5c36c81214aa0229877f07 6b90b98cbf95cd21bf8b3e1d04064ca40a961f52 3y3l3ss0ur0b0r0s <danielle.bertulfo.coding@gmail.com> 1736381125 -0500	commit: E. Create HTML layout with 2 columns (1 for map, 1 for country info)
+6b90b98cbf95cd21bf8b3e1d04064ca40a961f52 b92552ae9fb7c6f362115f86bce498d9d5b56908 3y3l3ss0ur0b0r0s <danielle.bertulfo.coding@gmail.com> 1736381512 -0500	commit: Move map-image.svg to assets folder
+b92552ae9fb7c6f362115f86bce498d9d5b56908 511fbdb7f44fc2ddf7713cbdf5a4592b1a5c8424 3y3l3ss0ur0b0r0s <danielle.bertulfo.coding@gmail.com> 1736397191 -0500	commit: - 2.B. Use SVG map for visual interface
+511fbdb7f44fc2ddf7713cbdf5a4592b1a5c8424 0b9019c5ae20bd4b6f857c87509846f239aff2fa 3y3l3ss0ur0b0r0s <danielle.bertulfo.coding@gmail.com> 1736397212 -0500	commit: Update other files
+0b9019c5ae20bd4b6f857c87509846f239aff2fa c19bc6a30352f7188855f11919c8d48286ca8d00 3y3l3ss0ur0b0r0s <danielle.bertulfo.coding@gmail.com> 1736397452 -0500	rebase (finish): refs/heads/working_branch onto 0ca932508603d4273518b5a8d24b82bedbe38a60
+c19bc6a30352f7188855f11919c8d48286ca8d00 ba5cc2a397045fe4c6369ddf476e30f5251f9029 3y3l3ss0ur0b0r0s <danielle.bertulfo.coding@gmail.com> 1736405289 -0500	commit (merge): 2.B. Use the "SVG Map" web link to create the visual interface
+ba5cc2a397045fe4c6369ddf476e30f5251f9029 1b77653c81b05a2dd8810a41ec06a469057e280e 3y3l3ss0ur0b0r0s <danielle.bertulfo.coding@gmail.com> 1736405967 -0500	commit: Cleanup
+1b77653c81b05a2dd8810a41ec06a469057e280e 1b77653c81b05a2dd8810a41ec06a469057e280e 3y3l3ss0ur0b0r0s <danielle.bertulfo.coding@gmail.com> 1749611547 -0400	Branch: renamed refs/heads/working_branch to refs/heads/main
+1b77653c81b05a2dd8810a41ec06a469057e280e ad7d82e27177ac0a1bfc5bd6b957d7dd37bde8ce 3y3l3ss0ur0b0r0s <danielle.bertulfo.coding@gmail.com> 1749611575 -0400	commit: first commit
+ad7d82e27177ac0a1bfc5bd6b957d7dd37bde8ce ad7d82e27177ac0a1bfc5bd6b957d7dd37bde8ce 3y3l3ss0ur0b0r0s <danielle.bertulfo.coding@gmail.com> 1749611575 -0400	Branch: renamed refs/heads/main to refs/heads/main

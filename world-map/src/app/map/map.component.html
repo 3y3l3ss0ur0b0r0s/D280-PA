@@ -1,0 +1,25 @@
+<div class="container">
+    <div id="mapColumn" class="map-column">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1010 666" fill="#92c842">
+            <path 
+            *ngFor="let path of paths" 
+            id="{{path.id}}" 
+            [attr.d]="path.d" 
+            [attr.name]="path.name" 
+            stroke="black"
+            (mouseover)="onCountryMouseOver($event.target)" 
+            (mouseleave)="onCountryMouseLeave($event.target)"
+            #path></path>
+        </svg>
+    </div>
+    <div class="country-info">
+        <ol *ngIf="countryInfo.name != ''">
+            <li><strong>Name:</strong> {{countryInfo['name']}}</li>
+            <li><strong>Capital:</strong> {{countryInfo['capitalCity']}}</li>
+            <li><strong>Region:</strong> {{countryInfo['region']['value']}}</li>
+            <li><strong>Income Level:</strong> {{countryInfo['incomeLevel']['value']}}</li>
+            <li><strong>Latitude:</strong> {{countryInfo['latitude']}}</li>
+            <li><strong>Longitude:</strong> {{countryInfo['longitude']}}</li>
+        </ol>
+    </div>
+</div>
